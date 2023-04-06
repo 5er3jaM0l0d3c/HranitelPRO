@@ -1,0 +1,12 @@
+C:\Users\Admin\Projects\qwer\SF2022User1Lib\bin\Debug\net6.0\SF2022User1Lib.deps.json
+C:\Users\Admin\Projects\qwer\SF2022User1Lib\bin\Debug\net6.0\SF2022User1Lib.dll
+C:\Users\Admin\Projects\qwer\SF2022User1Lib\bin\Debug\net6.0\SF2022User1Lib.pdb
+C:\Users\Admin\Projects\qwer\SF2022User1Lib\obj\Debug\net6.0\SF2022User1Lib.csproj.AssemblyReference.cache
+C:\Users\Admin\Projects\qwer\SF2022User1Lib\obj\Debug\net6.0\SF2022User1Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Projects\qwer\SF2022User1Lib\obj\Debug\net6.0\SF2022User1Lib.AssemblyInfoInputs.cache
+C:\Users\Admin\Projects\qwer\SF2022User1Lib\obj\Debug\net6.0\SF2022User1Lib.AssemblyInfo.cs
+C:\Users\Admin\Projects\qwer\SF2022User1Lib\obj\Debug\net6.0\SF2022User1Lib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Projects\qwer\SF2022User1Lib\obj\Debug\net6.0\SF2022User1Lib.dll
+C:\Users\Admin\Projects\qwer\SF2022User1Lib\obj\Debug\net6.0\refint\SF2022User1Lib.dll
+C:\Users\Admin\Projects\qwer\SF2022User1Lib\obj\Debug\net6.0\SF2022User1Lib.pdb
+C:\Users\Admin\Projects\qwer\SF2022User1Lib\obj\Debug\net6.0\ref\SF2022User1Lib.dll
